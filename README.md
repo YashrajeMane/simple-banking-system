@@ -8,7 +8,7 @@ As I learn new Python concepts, I improve the code, update the logic, and add ne
 This program has many bugs because of incorrect logic, wrong Python style, spelling mistakes, and typing mistakes. In some conditions the program may fail or give an empty response, and some numbers may be wrong. I am trying to fix these issues and add more features to it.
 #### Improve Old, Create New.
 
-## Features
+## Features (Initial Program)
 - Money withdrawal
 - Add money to account
 - Transfer money to another account
@@ -24,6 +24,9 @@ This program has many bugs because of incorrect logic, wrong Python style, spell
 
 ## Purpose
 This project is made only for learning and practice. Every time I learn something new in Python, I try to apply it here so I can understand how things work in real programs.
+
+## About UPDATE LOG
+Every Monday, even if the update is not fully finished.
 
 ## Future Plans
 - Improve existing logic
