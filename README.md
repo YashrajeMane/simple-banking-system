@@ -26,7 +26,7 @@ This program has many bugs because of incorrect logic, wrong Python style, spell
 This project is made only for learning and practice. Every time I learn something new in Python, I try to apply it here so I can understand how things work in real programs.
 
 ## About UPDATE LOG
-Every Monday, even if the update is not fully finished.
+- Monday, even if the update is not fully finished.
 
 ## Future Plans
 - Improve existing logic
